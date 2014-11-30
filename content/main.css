@@ -1,29 +1,22 @@
-﻿body
-{
+﻿body {
     font-size: 12px !important;
 }
 
-.NavigatorCategory
-{
-    margin: 7px;
+.NavigatorCategory {
+    margin: 2px;
+    cursor: pointer;
 }
 
-.SelectedCategory
-{
-    background-color: yellow;
-    padding: 2px;
-    margin: 5px;
+.SelectedCategory {
 }
 
-.TorrentFlag
-{
+.TorrentFlag {
     margin: 5px;
     float: right;
     height: 30px;
 }
 
-.TorrentFlagBar
-{
+.TorrentFlagBar {
     height: 40px;
     width: 100%;
     position: absolute;
@@ -32,56 +25,49 @@
     padding: 5px 10px 0px 10px;
 }
 
-.TorrentImage
-{
+.TorrentImage {
     margin: auto;
     max-height: 210px;
 }
 
-.TorrentImageHolder
-{
+.TorrentImageHolder {
     height: 220px;
     padding: 5px;
     width: 100%;
     background-color: #6d6d6d;
 }
 
-.TorrentBlock
-{
+.TorrentBlock {
     height: 280px;
     padding: 5px 10px 5px 10px;
 }
 
-.TorrentColor
-{
+.TorrentColor {
     display: block;
     height: 100%;
     background-color: #4f4f4f;
 }
 
-.TorrentFlagBarColor
-{
+.TorrentFlagBarColor {
     height: 40px;
     background-color: rgba(53, 126, 189, 0.68);
 }
 
-.SeriesInfo
-{
+.SeriesInfo {
     margin: 8px 5px;
     float: right;
     height: 30px;
     font-size: 18px;
 }
-.ScoreInfo
-{
+
+.ScoreInfo {
     margin: 8px 5px;
     float: left;
     height: 30px;
     font-size: 18px;
 }
 
-.InfoBar
-{
+.InfoBar {
     height: 40px;
     width: 100%;
     position: absolute;
@@ -90,8 +76,23 @@
     padding: 5px 10px 0px 10px;
 }
 
-.InfoBarColor
-{
+.InfoBarColor {
     height: 40px;
     background-color: rgba(49, 58, 63, 0.80);
+}
+
+.dropdown-toggle-has-selection {
+    padding: 8px 2px !important;
+}
+
+.dropdown-toggle {
+    color: #E7E7E7 !important;
+}
+
+.navbar {
+    background-color: #6D6D6D !important;
+}
+
+.navbar-brand {
+    color: #E7E7E7 !important;
 }
