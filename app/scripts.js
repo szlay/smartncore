@@ -12667,10 +12667,10 @@ SmartNCoreTemplates["Category.html"] =
 "    </div>"+
 "</div>";
 SmartNCoreTemplates["Home.html"] = 
-"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hd_hun\" data-param-q=\"2017\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
-"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hdser_hun\" data-param-q=\"2017\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
-"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hd\" data-param-q=\"2017\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
-"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hdser\" data-param-q=\"2017\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
+"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hd_hun\" data-param-q=\"2018\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
+"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hdser_hun\" data-param-q=\"2018\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
+"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hd\" data-param-q=\"2018\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
+"<div class=\"row\" bind-html-compile=\"views.categoryView\" data-param-id=\"hdser\" data-param-q=\"2018\" data-param-maxItem=\"18\" data-param-independent=\"true\" style=\"z-index: 1000;\"></div>"+
 ""+
 "<div id=\"HomeView\" class=\"container\" ng-controller=\"HomeController\">"+
 "    <div ng-bind-html=\"content\"></div>"+
